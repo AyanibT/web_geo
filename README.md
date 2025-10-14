@@ -9,3 +9,6 @@ This is a repo.
 
 ## Usage
 Uses  of this code.
+
+## MIT license
+License whatever
