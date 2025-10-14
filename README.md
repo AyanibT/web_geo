@@ -8,7 +8,7 @@ I added a third line.
 This is a repo.
 
 ## Usage
-Uses  of this code.
+Uses of this code.
 
 ## MIT license
 License whatever
